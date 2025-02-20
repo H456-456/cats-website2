@@ -55,6 +55,10 @@
     border: solid #000 2px;
     float: left;
   }
+    #button1:active{
+	background-color: #000;
+	color: white;
+  }
   #ikon {
     background: #ed647e;
     border-radius: 100%;
