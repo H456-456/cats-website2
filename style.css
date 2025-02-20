@@ -2,6 +2,7 @@
 /* глобальные */
 * {
 	margin: 0px;
+	font-family: "Bleeker Rus (Fixed)", cursive;
 }
 body{
 	background: #f8efe8;
@@ -52,6 +53,10 @@ a {
 	border-radius: 5.5px;
 	border: solid #000 2px;
 	float: left;
+}
+#button1:active{
+	background-color: #000;
+	color: white;
 }
 #ikon {
 	background: #ed647e;
