@@ -304,6 +304,7 @@
     position: relative;
   }
   .tablediv{
+    background-color: #f8efe8
     height: 35px;
     width: 175px;
     position: absolute;
