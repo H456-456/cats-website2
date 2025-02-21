@@ -226,6 +226,7 @@ form{
 	background-color: transparent;
 	margin-bottom: 35px;
 	outline: none;
+	position: absolute;
 	min-width: 78px;
 	min-height: 19px;
 	max-width: 420px;
