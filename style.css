@@ -226,6 +226,10 @@ form{
 	background-color: transparent;
 	margin-bottom: 35px;
 	outline: none;
+	min-width: 78px;
+	min-height: 19px;
+	max-width: 420px;
+	max-height: 70px;
 }
 #textname2:focus{
 	border-bottom: 3px solid #f8655e;
